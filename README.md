@@ -70,13 +70,11 @@ Because the projects is rather big, you need to do it in several stages, checkin
 
 Do not forget to mention your team in the README.md file, specifying also who did what. Also, README.md should include a short tutorial on your language, and some short code samples.
 
-------------------|---------------------
 Name | Role in the project
 ------------------|---------------------
 ... | ...
-------------------|---------------------
 
-<img src="https://soshnikov.com/images/byhuman.png" height="25px"/>
+<img src="https://soshnikov.com/images/byhuman_en.png" height="25px"/>
 
 > If you use Generative AI when writing this code (ChatGPT, GitHub Copilot and such), you need to mention it here (and remove the banner above), and briefly describe how it was used, and how it made you more productive. *Using Generative AI without explicitly mentioning it is a violation of academic conduct!* 
 
